@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="608f8ecb-1dde-458a-90f9-fd6895578047" name="Alexandre@ALEXANDRE-PC 2011-01-25 21:40:56" runUser="Alexandre-PC\Alexandre" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="285e3bb9-5dfb-4705-aaa0-96bb55459508">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Alexandre_ALEXANDRE-PC 2011-01-25 21_40_56">
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\Modelo\bin\Debug\Modelo.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\NHibernate.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\NHibernate.ByteCode.Castle.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\log4net.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Iesi.Collections.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Castle.Core.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\FluentNHibernate.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Castle.DynamicProxy2.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Antlr3.Runtime.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\antlr.runtime.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\Business\bin\Debug\Business.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-01-25T21:40:56.4759930-02:00" queuing="2011-01-25T21:40:57.5040518-02:00" start="2011-01-25T21:40:57.6850622-02:00" finish="2011-01-25T21:42:02.9607957-02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="ALEXANDRE-PC" outcome="Error" timestamp="2011-01-25T21:42:02.9587956-02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_Employee" storage="j:\projetos\mvcnorthwind\testrepository\bin\debug\testrepository.dll" id="35246005-c9af-c70d-76d4-5c5c16b91aac">
+      <Execution id="44fd6415-f39c-469a-9023-698215df8058" />
+      <TestMethod codeBase="J:/Projetos/MvcNorthwind/TestRepository/bin/Debug/TestRepository.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRepository.UnitTest1, TestRepository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Employee" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="35246005-c9af-c70d-76d4-5c5c16b91aac" executionId="44fd6415-f39c-469a-9023-698215df8058" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="44fd6415-f39c-469a-9023-698215df8058" testId="35246005-c9af-c70d-76d4-5c5c16b91aac" testName="Test_Employee" computerName="ALEXANDRE-PC" duration="00:01:05.1327253" startTime="2011-01-25T21:40:57.8280704-02:00" endTime="2011-01-25T21:42:02.9607957-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="44fd6415-f39c-469a-9023-698215df8058">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="68cc502c-97e9-4d23-882d-0eeacacb393c" name="Alexandre@ALEXANDRE-PC 2011-01-25 21:44:33" runUser="Alexandre-PC\Alexandre" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="285e3bb9-5dfb-4705-aaa0-96bb55459508">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Alexandre_ALEXANDRE-PC 2011-01-25 21_44_33">
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\Modelo\bin\Debug\Modelo.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\NHibernate.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\NHibernate.ByteCode.Castle.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\log4net.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Iesi.Collections.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Castle.Core.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\FluentNHibernate.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Castle.DynamicProxy2.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Antlr3.Runtime.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\antlr.runtime.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\Business\bin\Debug\Business.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-01-25T21:44:33.2673928-02:00" queuing="2011-01-25T21:44:33.2733931-02:00" start="2011-01-25T21:44:33.2993946-02:00" finish="2011-01-25T21:44:33.8794278-02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_Session" storage="j:\projetos\mvcnorthwind\testrepository\bin\debug\testrepository.dll" id="d9ba5773-b4b5-d392-e4c4-74416e33868c">
+      <Execution id="8f27d2bd-e080-44c9-8a56-66b8484b2c78" />
+      <TestMethod codeBase="J:/Projetos/MvcNorthwind/TestRepository/bin/Debug/TestRepository.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRepository.UnitTest1, TestRepository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Session" />
+    </UnitTest>
+    <UnitTest name="Test_Employee" storage="j:\projetos\mvcnorthwind\testrepository\bin\debug\testrepository.dll" id="35246005-c9af-c70d-76d4-5c5c16b91aac">
+      <Execution id="24225638-cc4d-43c0-ae37-b23c69557dfa" />
+      <TestMethod codeBase="J:/Projetos/MvcNorthwind/TestRepository/bin/Debug/TestRepository.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRepository.UnitTest1, TestRepository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Employee" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="35246005-c9af-c70d-76d4-5c5c16b91aac" executionId="24225638-cc4d-43c0-ae37-b23c69557dfa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9ba5773-b4b5-d392-e4c4-74416e33868c" executionId="8f27d2bd-e080-44c9-8a56-66b8484b2c78" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="24225638-cc4d-43c0-ae37-b23c69557dfa" testId="35246005-c9af-c70d-76d4-5c5c16b91aac" testName="Test_Employee" computerName="ALEXANDRE-PC" duration="00:00:00.2726944" startTime="2011-01-25T21:44:33.3213959-02:00" endTime="2011-01-25T21:44:33.8544264-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="24225638-cc4d-43c0-ae37-b23c69557dfa">
+    </UnitTestResult>
+    <UnitTestResult executionId="8f27d2bd-e080-44c9-8a56-66b8484b2c78" testId="d9ba5773-b4b5-d392-e4c4-74416e33868c" testName="Test_Session" computerName="ALEXANDRE-PC" duration="00:00:00.0026743" startTime="2011-01-25T21:44:33.8564265-02:00" endTime="2011-01-25T21:44:33.8624268-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f27d2bd-e080-44c9-8a56-66b8484b2c78">
+    </UnitTestResult>
+  </Results>
+</TestRun>

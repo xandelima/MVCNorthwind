@@ -1,0 +1,37 @@
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\ClasseConsole.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\ClasseConsole.pdb
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Antlr3.Utility.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Business.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Castle.Core.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Castle.DynamicProxy2.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\FluentNHibernate.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Iesi.Collections.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\log4net.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Modelo.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\NHibernate.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\StringTemplate.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Antlr3.Runtime.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\antlr.runtime.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Business.pdb
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Modelo.pdb
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Castle.Core.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\Castle.DynamicProxy2.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\FluentNHibernate.pdb
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\FluentNHibernate.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\log4net.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\NHibernate.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Projetos de Estudo\ClasseConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos de Estudo\ClasseConsole\obj\Debug\ClasseConsole.dll
+C:\Projetos de Estudo\ClasseConsole\obj\Debug\ClasseConsole.pdb
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Debug\ClasseConsole.pdb
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Debug\Business.dll
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Debug\Modelo.dll
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Debug\Business.pdb
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Debug\Modelo.pdb
+J:\Projetos\MvcNorthwind\ClasseConsole\obj\Debug\ResolveAssemblyReference.cache
+J:\Projetos\MvcNorthwind\ClasseConsole\obj\Debug\ClasseConsole.pdb
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Debug\ClasseConsole.exe.config
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Debug\ClasseConsole.exe
+J:\Projetos\MvcNorthwind\ClasseConsole\obj\Debug\ClasseConsole.exe

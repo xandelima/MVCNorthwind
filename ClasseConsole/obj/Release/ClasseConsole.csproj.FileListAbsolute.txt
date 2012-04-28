@@ -1,0 +1,46 @@
+C:\Projetos de Estudo\ClasseConsole\bin\Release\ClasseConsole.pdb
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Antlr3.Utility.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Business.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Castle.Core.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Castle.DynamicProxy2.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\FluentNHibernate.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Iesi.Collections.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\log4net.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Modelo.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\NHibernate.ByteCode.Castle.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\NHibernate.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\StringTemplate.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Antlr3.Runtime.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\antlr.runtime.dll
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Business.pdb
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Modelo.pdb
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Castle.Core.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Release\Castle.DynamicProxy2.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Release\FluentNHibernate.pdb
+C:\Projetos de Estudo\ClasseConsole\bin\Release\FluentNHibernate.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Release\log4net.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Release\NHibernate.xml
+C:\Projetos de Estudo\ClasseConsole\bin\Release\NHibernate.ByteCode.Castle.xml
+C:\Projetos de Estudo\ClasseConsole\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos de Estudo\ClasseConsole\obj\Release\ClasseConsole.pdb
+C:\Projetos de Estudo\ClasseConsole\bin\Release\ClasseConsole.exe
+C:\Projetos de Estudo\ClasseConsole\obj\Release\ClasseConsole.exe
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\ClasseConsole.exe
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\ClasseConsole.pdb
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\Business.dll
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\Modelo.dll
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\StringTemplate.dll
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\Antlr3.Runtime.dll
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\antlr.runtime.dll
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\Business.pdb
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\Modelo.pdb
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\Castle.Core.xml
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\Castle.DynamicProxy2.xml
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\FluentNHibernate.pdb
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\FluentNHibernate.xml
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\log4net.xml
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\NHibernate.xml
+J:\Projetos\MvcNorthwind\ClasseConsole\bin\Release\NHibernate.ByteCode.Castle.xml
+J:\Projetos\MvcNorthwind\ClasseConsole\obj\Release\ResolveAssemblyReference.cache
+J:\Projetos\MvcNorthwind\ClasseConsole\obj\Release\ClasseConsole.exe
+J:\Projetos\MvcNorthwind\ClasseConsole\obj\Release\ClasseConsole.pdb

@@ -1,0 +1,5 @@
+J:\Projetos\MvcNorthwind\MVC\bin\MVC.dll
+J:\Projetos\MvcNorthwind\MVC\bin\MVC.pdb
+J:\Projetos\MvcNorthwind\MVC\obj\Debug\ResolveAssemblyReference.cache
+J:\Projetos\MvcNorthwind\MVC\obj\Debug\MVC.dll
+J:\Projetos\MvcNorthwind\MVC\obj\Debug\MVC.pdb

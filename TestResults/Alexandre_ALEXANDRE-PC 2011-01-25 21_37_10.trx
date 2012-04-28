@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1332bb9a-3556-4e34-8263-d290b5fc3c73" name="Alexandre@ALEXANDRE-PC 2011-01-25 21:37:10" runUser="Alexandre-PC\Alexandre" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="285e3bb9-5dfb-4705-aaa0-96bb55459508">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="J:\Projetos\MvcNorthwind\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="Alexandre_ALEXANDRE-PC 2011-01-25 21_37_10">
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\NHibernate.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\NHibernate.ByteCode.Castle.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\log4net.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Iesi.Collections.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Castle.Core.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\FluentNHibernate.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Castle.DynamicProxy2.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\Business\bin\Debug\Business.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\Antlr3.Runtime.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\MvcNorthwind\bin\antlr.runtime.dll" />
+      <DeploymentItem filename="J:\Projetos\MvcNorthwind\Modelo\bin\Debug\Modelo.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-01-25T21:37:10.7530824-02:00" queuing="2011-01-25T21:37:11.7971421-02:00" start="2011-01-25T21:37:11.9571513-02:00" finish="2011-01-25T21:40:01.9928768-02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="ALEXANDRE-PC" outcome="Error" timestamp="2011-01-25T21:40:01.9888765-02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_Employee" storage="j:\projetos\mvcnorthwind\testrepository\bin\debug\testrepository.dll" id="35246005-c9af-c70d-76d4-5c5c16b91aac">
+      <Execution id="e793d84b-e0ee-4828-8921-9616080a6291" />
+      <TestMethod codeBase="J:/Projetos/MvcNorthwind/TestRepository/bin/Debug/TestRepository.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRepository.UnitTest1, TestRepository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Employee" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="35246005-c9af-c70d-76d4-5c5c16b91aac" executionId="e793d84b-e0ee-4828-8921-9616080a6291" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e793d84b-e0ee-4828-8921-9616080a6291" testId="35246005-c9af-c70d-76d4-5c5c16b91aac" testName="Test_Employee" computerName="ALEXANDRE-PC" duration="00:02:49.8957175" startTime="2011-01-25T21:37:12.0971593-02:00" endTime="2011-01-25T21:40:01.9928768-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e793d84b-e0ee-4828-8921-9616080a6291">
+    </UnitTestResult>
+  </Results>
+</TestRun>

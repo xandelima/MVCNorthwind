@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $.getJSON('http://localhost:52393/order/all', function (data) {
+            var items = [];
+
+            alert(data);
+            var tabela = $('#example');
+            $.each(data, function (key, val) {
+                $(tabela).append('<li id="' + key + '">' + val + '</li>');
+            });
+
+            $('<ul/>', {
+                'class': 'my-new-list',
+                html: items.join('')
+            }).appendTo('body');
+
+        });
+    });
+
+</script>
+
+<h2>Index</h2>

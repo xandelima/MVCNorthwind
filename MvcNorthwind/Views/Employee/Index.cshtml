@@ -1,0 +1,118 @@
+﻿@model IEnumerable<MvcNorthwind.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th></th>
+        <th>
+            LastName
+        </th>
+        <th>
+            FirstName
+        </th>
+        <th>
+            Title
+        </th>
+        <th>
+            TitleOfCourtesy
+        </th>
+        <th>
+            BirthDate
+        </th>
+        <th>
+            HireDate
+        </th>
+        <th>
+            Address
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            Region
+        </th>
+        <th>
+            PostalCode
+        </th>
+        <th>
+            Country
+        </th>
+        <th>
+            HomePhone
+        </th>
+        <th>
+            Extension
+        </th>
+        <th>
+            Notes
+        </th>
+        <th>
+            PhotoPath
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.EmployeeID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.EmployeeID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.EmployeeID })
+        </td>
+        <td>
+            @item.LastName
+        </td>
+        <td>
+            @item.FirstName
+        </td>
+        <td>
+            @item.Title
+        </td>
+        <td>
+            @item.TitleOfCourtesy
+        </td>
+        <td>
+            @String.Format("{0:g}", item.BirthDate)
+        </td>
+        <td>
+            @String.Format("{0:g}", item.HireDate)
+        </td>
+        <td>
+            @item.Address
+        </td>
+        <td>
+            @item.City
+        </td>
+        <td>
+            @item.Region
+        </td>
+        <td>
+            @item.PostalCode
+        </td>
+        <td>
+            @item.Country
+        </td>
+        <td>
+            @item.HomePhone
+        </td>
+        <td>
+            @item.Extension
+        </td>
+        <td>
+            @item.Notes
+        </td>
+        <td>
+            @item.PhotoPath
+        </td>
+    </tr>
+}
+
+</table>
+

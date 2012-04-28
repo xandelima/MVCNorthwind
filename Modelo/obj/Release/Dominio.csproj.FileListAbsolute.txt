@@ -1,0 +1,10 @@
+C:\Projetos de Estudo\Modelo\bin\Release\Modelo.dll
+C:\Projetos de Estudo\Modelo\bin\Release\Modelo.pdb
+C:\Projetos de Estudo\Modelo\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos de Estudo\Modelo\obj\Release\Modelo.dll
+C:\Projetos de Estudo\Modelo\obj\Release\Modelo.pdb
+J:\Projetos\MvcNorthwind\Modelo\bin\Release\Modelo.dll
+J:\Projetos\MvcNorthwind\Modelo\bin\Release\Modelo.pdb
+J:\Projetos\MvcNorthwind\Modelo\obj\Release\ResolveAssemblyReference.cache
+J:\Projetos\MvcNorthwind\Modelo\obj\Release\Modelo.dll
+J:\Projetos\MvcNorthwind\Modelo\obj\Release\Modelo.pdb

@@ -1,0 +1,48 @@
+C:\Projetos de Estudo\Business\bin\Debug\Business.dll
+C:\Projetos de Estudo\Business\bin\Debug\Business.pdb
+C:\Projetos de Estudo\Business\bin\Debug\antlr.runtime.dll
+C:\Projetos de Estudo\Business\bin\Debug\Antlr3.Runtime.dll
+C:\Projetos de Estudo\Business\bin\Debug\Castle.Core.dll
+C:\Projetos de Estudo\Business\bin\Debug\Castle.DynamicProxy2.dll
+C:\Projetos de Estudo\Business\bin\Debug\FluentNHibernate.dll
+C:\Projetos de Estudo\Business\bin\Debug\Iesi.Collections.dll
+C:\Projetos de Estudo\Business\bin\Debug\log4net.dll
+C:\Projetos de Estudo\Business\bin\Debug\Modelo.dll
+C:\Projetos de Estudo\Business\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projetos de Estudo\Business\bin\Debug\NHibernate.dll
+C:\Projetos de Estudo\Business\bin\Debug\Modelo.pdb
+C:\Projetos de Estudo\Business\bin\Debug\Castle.Core.xml
+C:\Projetos de Estudo\Business\bin\Debug\Castle.DynamicProxy2.xml
+C:\Projetos de Estudo\Business\bin\Debug\FluentNHibernate.pdb
+C:\Projetos de Estudo\Business\bin\Debug\FluentNHibernate.xml
+C:\Projetos de Estudo\Business\bin\Debug\Iesi.Collections.xml
+C:\Projetos de Estudo\Business\bin\Debug\log4net.xml
+C:\Projetos de Estudo\Business\bin\Debug\NHibernate.xml
+C:\Projetos de Estudo\Business\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Projetos de Estudo\Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos de Estudo\Business\obj\Debug\Business.dll
+C:\Projetos de Estudo\Business\obj\Debug\Business.pdb
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Business.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Business.pdb
+J:\Projetos\MvcNorthwind\Business\bin\Debug\antlr.runtime.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Antlr3.Runtime.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Castle.Core.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Castle.DynamicProxy2.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\FluentNHibernate.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Iesi.Collections.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\log4net.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Modelo.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\NHibernate.ByteCode.Castle.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\NHibernate.dll
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Modelo.pdb
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Castle.Core.xml
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Castle.DynamicProxy2.xml
+J:\Projetos\MvcNorthwind\Business\bin\Debug\FluentNHibernate.pdb
+J:\Projetos\MvcNorthwind\Business\bin\Debug\FluentNHibernate.xml
+J:\Projetos\MvcNorthwind\Business\bin\Debug\Iesi.Collections.xml
+J:\Projetos\MvcNorthwind\Business\bin\Debug\log4net.xml
+J:\Projetos\MvcNorthwind\Business\bin\Debug\NHibernate.xml
+J:\Projetos\MvcNorthwind\Business\bin\Debug\NHibernate.ByteCode.Castle.xml
+J:\Projetos\MvcNorthwind\Business\obj\Debug\ResolveAssemblyReference.cache
+J:\Projetos\MvcNorthwind\Business\obj\Debug\Business.dll
+J:\Projetos\MvcNorthwind\Business\obj\Debug\Business.pdb
